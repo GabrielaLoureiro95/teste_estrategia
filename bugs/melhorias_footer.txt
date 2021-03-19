@@ -1,0 +1,13 @@
+Sugestões de melhorias:
+	- Retomar a atualização da página "Eventos" no rodapé da página inicial, ou remover esta página, focando no uso dos perfis das redes sociais para comunicação de eventos ao público;
+	- Remover o link "Cursos por Concurso" da coluna "Suporte" no rodapé da página, pois este link já está presente no topo da página;
+	- Atualizar o link "Trabalhe conosco" no rodapé da página inicial, pois atualmente este leva a uma página desativada;
+	- A coluna "Concursos Públicos" no rodapé é reduntante, levando em consideração a existência da opção de busca "Por Concursos";
+	- Diversos links quebrados na página "Audiobooks"
+		- Constituição Federal de 1988
+		- Lei 9784/99 - Processo Administrativo Federal
+		- Lei 12.846/13 - Lei Anticorrupção
+		- Decreto 1.171/94 - Código de Ética do Servidor Público Federal
+		- Lei 12.527/11 - Lei de Acesso á Informação
+		- Súmulas Vinculantes do STF
+		- Lei nº 8.112/90 - Estatuto dos Servidores Públicos Civis Federais

@@ -1,0 +1,2 @@
+Sugestões de melhorias:
+	- Na visualização do professor, as opções de compra não estão separadas por assinatura, pacotes e cursos como nas outras visualizações.

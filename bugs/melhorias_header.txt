@@ -1,0 +1,2 @@
+Sugestões de melhorias:
+	- Alterar o texto da opção "Contato" no topo da página inicial para "Ajuda", De forma a ser consistente com a página que é acessada.

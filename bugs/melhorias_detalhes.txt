@@ -1,0 +1,2 @@
+Sugestões de melhorias:
+	- Combinar o pagamento parcelado com o a vista da mesma assinatura em uma página só, ou se for manter as páginas separadas, no fim da página do curso à vista também acrescentar um link para a página do curso em 12 parcelas.

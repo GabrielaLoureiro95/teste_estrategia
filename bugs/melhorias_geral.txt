@@ -1,0 +1,3 @@
+Sugestões de melhorias:
+	- Encontrar resultados relevantes para buscas sem acentos na barra de busca da página inicial, para facilitar navegação do usuário;
+	- Adição de classes, nomes e ids aos elementos HTML, de forma a facilitar a automação de testes.

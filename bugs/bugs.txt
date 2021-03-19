@@ -1,0 +1,3 @@
+Bug: a visualização de detalhes reporta cursos a mais do que a visualização da página de busca (a visualização
+da página de busca soma os cursos e pacotes (visto em "anexo_1"), enquanto a visualização de detalhes conta além disso as assinaturas(visto em "anexo_2"), ou 
+seja, as informações da página de detalhes estão incoerentes e confusas. Uma possível melhoria seria mudar para o número real de cursos sem contar os pacotes e assinaturas, ou mudar o nome para "X opções disponíveis" ao invés de "X cursos disponíveis".
